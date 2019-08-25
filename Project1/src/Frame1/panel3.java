@@ -65,9 +65,6 @@ public class panel3 {
 						panel3.add(button3);
 					}
 					
-					
-					
-					
 					frame.add(panel1);
 					frame.add(panel2);
 					frame.add(panel3);
@@ -75,8 +72,7 @@ public class panel3 {
 					frame.setVisible(true);
        }
 
-	private static void setIconImages(ArrayList<Image> imageList) {
-		// TODO Auto-generated method stub
+	
 		
-	}
-	}
+}
+	
